@@ -1,0 +1,35 @@
+# Build output
+Debug/
+Release/
+build/
+dist/
+*.out
+*.obj
+*.o
+*.map
+*.d
+*.lib
+
+# IDE/workspace metadata
+.metadata/
+.settings/
+.launches/
+.project
+.cproject
+.ccsproject
+targetConfigs/
+RemoteSystemsTempFiles/
+.jxbrowser.userdata/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / temporary
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
